@@ -1,15 +1,20 @@
 # Procgen-benchmark-with-a2c
 Repository for Autonomous and adaptive systems project
 
-# Folder description
-src: source code
-
-model: trained models
-
-results: images and videos
-
-### dependencies
-in requirements.txt are reported the dependencies
+### Folder description
+```
+Procgen-benchmark-with-a2c
+├─ src
+│  └─ source code
+├─ report
+│  └─ report.pdf
+├─ models
+│  └─ pre trained models
+├─ video
+│  └─ video of trained agents
+├─ requirements.txt
+└─ README.md
+```
 
 ### run
 to run locally use ```train.py``` or use colab.ipynb to run on colab
